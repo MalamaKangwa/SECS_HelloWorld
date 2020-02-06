@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "SECS_HelloWorld": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
